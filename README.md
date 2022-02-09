@@ -18,7 +18,7 @@
 
 ![Break Deez Blocks DEMO _ SIMMER io - Google Chrome 2_2_2022 7_42_57 PM](https://user-images.githubusercontent.com/86726474/152210025-69199376-ef7e-4998-ac2b-2e937670b2e7.png)
 
-## LINK TO PLAY:
+## LINKS TO PLAY:
 
 [<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/backyard-defender)
 
